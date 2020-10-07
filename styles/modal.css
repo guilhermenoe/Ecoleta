@@ -10,6 +10,9 @@
     align-items: center;
     transition: 400ms;
 }
+#modal.hide {
+    display: none;
+}
 
 #modal .content{
     color: white;
@@ -67,4 +70,3 @@
     background-color: #2fb85e;
 }
 
-/*retomar em 1:19/*
