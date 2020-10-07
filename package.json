@@ -1,0 +1,24 @@
+{
+  "name": "Ecoleta",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermenoe/Ecoleta.git"
+  },
+  "author": "Guilherme Noé",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermenoe/Ecoleta/issues"
+  },
+  "homepage": "https://github.com/guilhermenoe/Ecoleta#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
